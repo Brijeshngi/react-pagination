@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.pagination{
+  display: flex;
+  margin-left: 50px;
+  list-style-type: none;
+  
+}
